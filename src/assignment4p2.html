@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>mySQLiSession</title>
+    <script type="text/javascript" src="assignment4p2.js" ></script>
+    <link rel="stylesheet" type="text/css" href="assignment4p2.css"">
+  </head>
+  <body>
+
+    <div id="addVideo" >
+      <form id="addForm">
+	    <p>Video Name</p>
+	    <input type="text" name="name" value="" required>
+	    <p>Category</p>
+	    <input type="text" name="category" value="">
+		<p>Length</p>
+	    <input type="text" name="vlength" value="">
+	    <input id="addButton" type="button" name="addButton" value="Add Video">
+      </form>
+    </div>
+	
+      <select id="dropDown" name="categories" onchange="filter()">
+	    <option value="allMovies">All Movies</option>
+		<option value="comedy">Comedy</option>
+		<option value="romance">Romance</option>
+		<option value="drama">Drama</option>
+		<option value="action">Action</option>
+		<option value="musical">Musical</option>
+		<option value="children">Children</option>
+	  </select>
+
+	
+	<div id="videos"></div>
+
+	<form id="deleteForm">
+	  <input id="deleteAll" type="button" name="deleteAll" value="Delete All">
+	</form>
+	
+  </body>
+</html>

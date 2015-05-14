@@ -1,0 +1,7 @@
+.checkout:hover, .checkIn:hover, .remove:hover, .position:hover {
+    background-color: lightblue;
+}
+
+#dropDown, #deleteForm {
+ margin: 10px;
+}
