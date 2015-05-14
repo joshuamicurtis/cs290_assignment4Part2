@@ -1,0 +1,24 @@
+Start: %ad %nEnd: %ad %nTasks: %s %n" --date=rfc
+Start: Wed, 13 May 2015 20:08:30 -0400
+End: Thu, 14 May 2015 00:09:50 -0400
+Tasks: still problems with category drop down.
+
+Start: Wed, 13 May 2015 16:00:00 -0400
+End: Wed, 13 May 2015 19:30:00 -0400
+Tasks: Filtering sort of works, but not set to local storage yet
+
+Start: Wed, 13 May 2015 15:00:00 -0400
+End: Wed, 13 May 2015 12:00:00 -0400
+Tasks: Can remove and checkout/checkin videos
+
+Start: Wed, 13 May 2015 9:00:00 -0400
+End: Wed, 13 May 2015 11:30:00 -0400
+Tasks: Inserting works
+
+Start: Mon, 11 May 2015 09:20:24 -0400
+End: Mon, 11 May 2015 12:20:24 -0400
+Tasks: Got DB set up
+
+Start: Fri, 8 May 2015 14:20:24 -0400
+End: Fri, 8 May 2015 15:20:24 -0400
+Tasks: Got DB set up
